@@ -1,4 +1,4 @@
-![Shlink](https://raw.githubusercontent.com/shlinkio/shlink.io/main/public/images/shlink-hero.png)
+![Shlink](https://raw.githubusercontent.com/shlinkio/shlink.io/main/public/images/shlink-hero.png)..
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/shlinkio/shlink/ci.yml?branch=develop&logo=github&style=flat-square)](https://github.com/shlinkio/shlink/actions/workflows/ci.yml?query=workflow%3A%22Continuous+integration%22)
 [![Code Coverage](https://img.shields.io/codecov/c/gh/shlinkio/shlink/develop?style=flat-square)](https://app.codecov.io/gh/shlinkio/shlink)
@@ -14,11 +14,12 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Full documentation](#full-documentation)
 - [Docker image](#docker-image)
 - [Self-hosted](#self-hosted)
-    - [Download](#download)
-    - [Configure](#configure)
+  - [Download](#download)
+  - [Configure](#configure)
 - [Using shlink](#using-shlink)
 - [Contributing](#contributing)
 
